@@ -1,0 +1,5 @@
+*/.env
+*/replied_tweets.json
+*/pdm.lock
+*/__pycache__
+*/.pdm-python
